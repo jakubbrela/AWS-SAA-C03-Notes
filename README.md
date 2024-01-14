@@ -235,7 +235,7 @@ Charged for all four categories.
 
 #### 1.2.5.3. Stopped State
 
-Charged for EBS storage  only.
+Charged for EBS storage  **only**.
 
 - No CPU resources are being consumed
 - No memory is being used
